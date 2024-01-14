@@ -1,0 +1,11 @@
+Netscape Navigator (or similar)
+
+Check browser is 32 bit?
+
+typeof navigator != 'undefined'
+
+Browser supports plugins (NN2+)
+typeof navigator.plugins != 'undefined'
+
+Browser has NPPGWrap (NN2+)
+typeof navigator.plugins["Microsoft ActiveX Portability Container (NPPGWrap)"] != 'undefined'

@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "outDir": "./static/js/",
+    "noImplicitAny": true,
+    "target": "ES3",
+    "ignoreDeprecations": "5.0", // Ignore deprecation warning for ES3 target
+  },
+  "exclude": [
+    "./node_modules"
+  ],
+  "files": [
+    "./src/ts/index.ts"
+  ],
+}

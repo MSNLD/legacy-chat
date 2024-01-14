@@ -1,0 +1,14 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.rulers": [
+    80, 120
+  ],
+"editor.detectIndentation": false,
+"editor.tabSize": 2,
+"files.eol": "\n"
+}
